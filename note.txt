@@ -1,0 +1,8 @@
+
+first message on tinder generator
+
+give name and age to the function 
+=> gives you a random message back to you
+
+
+
